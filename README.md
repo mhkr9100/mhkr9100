@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm mhkr9100 👋
+# Hi, I'm Hemanth Kumar 👋
 
 ### Building the personal AI layer between **your data, your desktop, and your agents**.
 
